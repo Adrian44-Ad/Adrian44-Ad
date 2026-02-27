@@ -25,17 +25,17 @@
 <p>
   <img
     src = "https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"
-    width = "150"
+    width = "100"
     style = "margin-right:10px;"
    >
   <img
     src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/960px-Tux.svg.png"
-    width = "150"
+    width = "100"
     style = "margin-right:10px;"
    >
   <img
     src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/960px-Visual_Studio_Code_1.35_icon.svg.png"
-    width = "150"
+    width = "100"
     style = "margin-right:10px;"
    >
 </p>
